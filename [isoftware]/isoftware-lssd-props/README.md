@@ -6,9 +6,9 @@ This file can be used to add custom maps or modifications to your FiveM server f
 
 ## Installation
 1. Download the files from this repository.
-2. Create a folder named "[isoftware]"
-3. Create an other folder named "isoftware-lssd-props"
-4. Place the "[isoftware]" folder in the `resources` folder of your FiveM resource:
+2. Create a folder named `[isoftware]`
+3. Create an other folder named `isoftware-lssd-props`
+4. Place the `[isoftware]` folder in the `resources` folder of your FiveM resource:
    - Example: `resources/[isoftware]/isoftware-lssd-props/`
 5. Ensure your resource is added to the `server.cfg` file:
    - `ensure [isoftware]`
